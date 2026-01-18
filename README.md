@@ -1,0 +1,2 @@
+# binary_instruction_calculator
+Simple binary instruction calculator
